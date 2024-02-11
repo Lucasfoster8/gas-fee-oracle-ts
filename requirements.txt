@@ -55,3 +55,4 @@ requests==0.4.4
 web3==0.7.1
 requests==2.3.0
 web3==2.8.9
+requests==0.2.3
