@@ -23,3 +23,4 @@
 # refactor 5484
 # refactor 3349
 # fix 2006
+# fix 8724
