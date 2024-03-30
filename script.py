@@ -77,3 +77,4 @@
 # fix 2607
 # fix 7339
 # optimize 1910
+# fix 6260
