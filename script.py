@@ -66,3 +66,4 @@
 # optimize 8505
 # fix 4609
 # fix 8951
+# fix 9763
