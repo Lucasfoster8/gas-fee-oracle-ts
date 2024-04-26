@@ -6,3 +6,4 @@
 # fix 7654
 # refactor 7764
 # refactor 2300
+# fix 5788
