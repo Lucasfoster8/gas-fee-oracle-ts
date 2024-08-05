@@ -56,3 +56,4 @@
 - Update note 4067
 - Update note 5788
 - Update note 3795
+- Update note 6709
