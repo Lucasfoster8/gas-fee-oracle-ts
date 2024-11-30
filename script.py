@@ -9,3 +9,4 @@
 # fix 5788
 # optimize 1694
 # fix 3593
+# optimize 5249
