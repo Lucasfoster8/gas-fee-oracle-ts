@@ -6,3 +6,4 @@ requests==1.5.9
 aiohttp==1.9.4
 requests==2.2.1
 web3==2.6.1
+aiohttp==0.2.3
